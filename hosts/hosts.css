@@ -1,0 +1,79 @@
+#topo{
+	background-color: #9400D3;
+	 color: White;
+	 text-align: center;
+	 height: 500px;
+	 margin: right 5px;
+	 width: 1230px;
+
+	 font-family: Arial;
+	 border-radius: 13px;
+	 box-shadow: inset 0 0 1em black, 0 0 1em black;
+}
+
+#meio{
+	background-color: #4B0082;
+	float:center;
+	height: 750px;
+	width: 1230px;
+
+	border-radius: 15px;
+
+}
+#esquerda{
+	background-color: #9400D3;
+	 color: White;
+	 text-align: center;
+	 float: left;
+	 height: 550px;
+	 width: 200px;
+	 margin: 50px;
+	 padding: 50px;
+
+	 font-family: Arial;
+	 border: solid 5px #4B0082;
+	 border-radius: 35px;
+	 box-shadow: inset 0 0 1em black, 0 0 1em black;
+}
+#meio1{
+	background-color: #9400D3;
+	 color: White;
+	 text-align: center;
+	 float: left;
+	 height: 550px;
+	 width: 200px;
+	 margin: 50px;
+	 padding: 50px;
+
+	 font-family: Arial;
+	 border: solid 5px #4B0082;
+	 border-radius: 35px;
+	 box-shadow: inset 0 0 1em black, 0 0 1em black;
+}
+#direita{
+	background-color: #9400D3;
+	 color: White;
+	 text-align: center;
+	 float: left;
+	 height: 550px;
+	 width: 200px;
+	 margin: 50px;
+	 padding: 50px;
+
+	 font-family: Arial;
+	 border: solid 5px #4B0082;
+	 border-radius: 35px;
+	 box-shadow: inset 0 0 1em black, 0 0 1em black;
+}
+#topo1{
+	background-color: #1C1C1C;
+	color: White;
+	float: center;
+
+	font-family: Arial;
+	border: solid 5px Black;
+	border-radius: 15px;
+}
+li{
+	font-family: Arial;
+}
